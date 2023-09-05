@@ -7,7 +7,7 @@ It is based On MERN stack.
 
 
 I have also used MongoDB fro data storage which eventually makes the app a full stack project.
-
+but as assessment part i have given the link only for frontend part hosted on netlify.
 Features:
 Product Listing: 
 
