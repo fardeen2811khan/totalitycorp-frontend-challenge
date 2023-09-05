@@ -40,7 +40,4 @@ Display the user's name and avatar when logged in.
 
 Optimize the layout for different screen sizes. 
 
-**For Backend** - `npm i`
 
-**For Frontend** - `cd frontend` ` npm i`
-Features
