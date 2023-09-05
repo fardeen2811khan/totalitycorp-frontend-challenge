@@ -1,10 +1,12 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Fardeen Khan**, I have created this web app fro training purpose
+Hi! My name is **Fardeen Khan**, I have created this web app for training purpose
 
 With my own skills and with help of Documentation of nodejs,Reactjs and google searches of stack overflows i have completed this projects.
 It is based On MERN stack.
 
+
+I have also used MongoDB fro data storage which eventually makes the app a full stack project.
 
 Features:
 Product Listing: 
