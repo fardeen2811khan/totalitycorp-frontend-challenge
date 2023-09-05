@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# totalitycorp-frontend-challenge
 
 Hi! My name is **Fardeen Khan**, I have created this web app for training purpose
 
